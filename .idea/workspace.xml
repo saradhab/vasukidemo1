@@ -152,6 +152,10 @@
     </state>
     <state x="458" y="174" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1584916047530" />
     <state x="458" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.828@0.23.1440.828" timestamp="1584243727059" />
+    <state x="607" y="23" key="CommitChangelistDialog2" timestamp="1584929685665">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="607" y="23" key="CommitChangelistDialog2/0.23.1440.827@0.23.1440.827" timestamp="1584929685665" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1584818627222">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
@@ -273,10 +277,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="308" y="200" key="IDE.errors.dialog/0.0.1440.900@0.0.1440.900" timestamp="1584925137269" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1584929273158">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="320" y="198" key="Vcs.Push.Dialog.v2" timestamp="1584929690368">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1584929273158" />
+    <state x="320" y="198" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1584929690368" />
     <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1584818627223">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
