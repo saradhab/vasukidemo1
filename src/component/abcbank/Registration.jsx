@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import ApiService from "../../service/ApiService";
+import ApiService from "../../service/ApiServiceUser";
 
 
 class Registration extends Component{

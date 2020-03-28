@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import ApiService from "../../service/ApiService";
+import ApiService from "../../service/ApiServiceUser";
 
 class ListUserProfile extends Component {
 
@@ -25,6 +25,7 @@ class ListUserProfile extends Component {
     reloadUserList() {
         ApiService.fetchUser()
             .then((res) => {
+
                // this.state.users=res.data.result
                 this.setState({users: res.data})
             });
